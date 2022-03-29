@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
+.idea/
+experiments_results/
+data/
+*.csv
+*.xls
+*.xlsx
+*.npz
