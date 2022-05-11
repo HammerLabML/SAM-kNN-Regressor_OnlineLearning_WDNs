@@ -29,4 +29,4 @@ Note that we did not publish the data sets due to large file sizes. Please conta
 
 ## License
 
-MIT license - See [LICENSE.md](LICENSE.md)
+MIT license - See [LICENSE](LICENSE)
